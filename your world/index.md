@@ -4,6 +4,6 @@
 ## 项目位置
 https://gitee.com/hidiyou/your-world
 ## 文档和教程
-[点击查看](wiki/index.md)
+[点击查看](wiki/index)
 ## 下载
 未完成
