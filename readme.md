@@ -13,5 +13,3 @@
 - 邮箱：hidiyou@gmx.com
 
 - skype：hidiyou
-
-- 
